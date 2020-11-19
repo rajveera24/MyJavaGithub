@@ -5,5 +5,7 @@ public class ClientApp {
 		
 		Person p=new Person("jay",101,90.00);
 		System.out.println(p);
+		Person p1=new Person("vijay",104,93.00);
+		System.out.println(p1);
 	}
 }
